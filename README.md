@@ -3,9 +3,9 @@ Welcome to the repository where I keep a backup of video game mods that I made w
 
 Info and Credits for currently released mods: (oldest to newest)
 	
-	#Sonic 3 A.I.R.
+# Sonic 3 A.I.R.
 	
-## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/sonicmaniamenugenesisicon.png"> Sonic Mania Menu Genesis Remixes
+## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/sonicmaniamenugenesis.png"> Sonic Mania Menu Genesis Remixes
 Replaces the menu music with Sega Genesis remixes of Sonic Mania's OST
 
 >Credits:
@@ -29,7 +29,7 @@ Not necessarily a mod, but more of a tool to easier skin making for the Mephiles
 >* Original Author - Sotaknuck
 >* 2011X over Mephiles Credits - JoeDoughBoi, Madzilla, ScorchVx, DylanZeMuffin
 
-	#Retro Engine
+# Retro Engine
 	
 ## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/s3ksonicinsonic2icon.png"> S3&K Sonic in Sonic 2 (Sonic 2 2013)
 A simple reskin of Sonic from his appereance in Sonic 3 (And Knuckles)
@@ -65,15 +65,15 @@ A add-on mod for the mod "Sonic 3 & Knuckles Experience" that replaces Amy's spr
 ## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/cdesquelifehudicon.png"> CD-esque Life HUD (RSDK Decomps and Origins)
 A mod for the decompilations and Sonic Origins to make the life hud similar to the Sonic CD life HUD, inspired by Arqante's S1F/S2A/S3AIR Mod
 
-	# DOOM Engine
+# DOOM Engine
 
 ## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/missingicon.png"> The Sanik n Beta Wacky Pack (Dr. Robotnik Ring Racers)
 A collaboration with SanikSpeedyBoi to bring you some wacky characters to ring race with!
 
 >Credits:
 >* Main Guys - SanikSpeedyBoi, BetaNCourses
->*
->* Other Credits (Directly taken from the MB Page):
+>
+> Other Credits (Directly taken from the MB Page):
 >* Pikaspoop: Correcting my file convention mistake, thanks for that dude.
 >* McPig/Tour De Pizza: Pizza Tower, most of the Bucket sounds
 >* Toby Fox: Undertale, maybe Vegetoid if I remember correctly.
