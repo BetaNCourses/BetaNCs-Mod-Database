@@ -1,0 +1,19 @@
+{
+	"Metadata":
+	{
+		"Name": "Mephiles' Hunt Expanded Template",
+		"Author": "Sotaknuck, BetaNCourses",
+		"Description": "A easier method of editing Mephiles' sprites from Mephiles' Hunt",
+		"ModVersion": "1.1"
+	},
+	"OtherMods":
+	{
+		"Mephiles' Hunt":
+		{
+			"DisplayName": "Mephiles' Hunt",
+			"IsRequired": "1",
+			"Priority": "High"
+		}
+	}
+}
+
