@@ -1,0 +1,8 @@
+{
+	"Mini_Super_Mighty_0x00":  { "File": "custom_superbuddy.png", "Rect": "1,16,50,50", "Center": "40,60" },
+	"Mini_Super_Mighty_0x01":  { "File": "custom_superbuddy.png", "Rect": "54,16,50,50", "Center": "40,60" },
+	"Mini_Super_Mighty2_0x00":  { "File": "custom_superbuddy.png", "Rect": "1,16,50,50", "Center": "40,60" },
+	"Mini_Super_Mighty2_0x01":  { "File": "custom_superbuddy.png", "Rect": "54,16,50,50", "Center": "40,60" },
+	"Mini_Super_Mighty3_0x00":  { "File": "custom_superbuddy.png", "Rect": "1,16,50,50", "Center": "40,60" },
+	"Mini_Super_Mighty3_0x01":  { "File": "custom_superbuddy.png", "Rect": "54,16,50,50", "Center": "40,60" }
+}

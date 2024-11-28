@@ -1,0 +1,20 @@
+{
+	"Metadata":
+	{
+		"Name": "Pizzakins Buddies",
+		"Author": "BetaNCourses",
+		"Description": "A.K.A., Demo Toppins for Mini Buddies\n\nDon't worry, the final designed toppins will come at another day",
+		"ModVersion": "1.0",
+	},
+	"OtherMods":
+	{
+		"MINI-Buddies-BETA":
+		{
+			"DisplayName": "(eXtra Quill's) BETA MINI Buddies",
+			"IsRequired": "1",
+			"Priority": "High"
+		}
+	}
+}
+
+}
