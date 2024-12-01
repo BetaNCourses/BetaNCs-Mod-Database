@@ -29,6 +29,13 @@ Not necessarily a mod, but more of a tool to easier skin making for the Mephiles
 >* Original Author - Sotaknuck
 >* 2011X over Mephiles Credits - JoeDoughBoi, Madzilla, ScorchVx, DylanZeMuffin
 
+## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/pizzakinsbuddiesicon.png"> Pizzakins Buddies (Demo Toppins for Mini Toppins)
+The Pizza Tower toppins from SAGE 2019 are back to join you on your adventure! Requires (eXtra Quills) MINI BUDDIES
+
+>Credits:
+>* The Mod - BetaNCourses
+>* Original Mod Author - eXtra_Quill
+
 # Retro Engine
 	
 ## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/s3ksonicinsonic2icon.png"> S3&K Sonic in Sonic 2 (Sonic 2 2013)
@@ -53,17 +60,6 @@ A mod that reskins the special sprites to the ones from Sonic CD
 >* The Mod - BetaNCourses
 >* Inspiration - Syro The Hedgefox
 >* Original Sprites - SEGA, A+Start
-
-# Currently in-progress mods:
-
-## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/tinytweakss1icon.png"> Tiny Tweaks (Sonic 1 2013/Origins?)
-A mod that aims to fix up a few things on what the Mobile port and Origins did wrong
-
-## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/stt16amyfors3keicon.png"> STT16-Bit Amy Sprites for S3KE (Sonic 1 2013)
-A add-on mod for the mod "Sonic 3 & Knuckles Experience" that replaces Amy's sprites from Sonic Triple Trouble 16-Bit
-
-## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/cdesquelifehudicon.png"> CD-esque Life HUD (RSDK Decomps and Origins)
-A mod for the decompilations and Sonic Origins to make the life hud similar to the Sonic CD life HUD, inspired by Arqante's S1F/S2A/S3AIR Mod
 
 # DOOM Engine
 
@@ -96,5 +92,20 @@ A mod that replaces the Mario Mode sounds (and music) with more accurate sounds 
 
 # Currently in-progress mods:
 
-## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/missingicon.png"> Woodified Sonic (Sonic Robo Blast 2)
+## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/tinytweakss1icon.png"> Tiny Tweaks (Sonic 1 2013/Origins?) - Retro Engine
+A mod that aims to fix up a few things on what the Mobile port and Origins did wrong
+
+## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/missingicon.png"> Extra Slot Woodified Sonic: BetaNC's Continuation - Sonic 3 A.I.R.
+A official continuation of SDG's old "Extra Slot Woodified Sonic" mod with hopefully new content for our wood friendd
+
+## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/missingicon.png"> Woodified Sonic (Sonic Robo Blast 2) - DOOM Engine
 A mod that adds the funny wood hedgehog from the S1F mod "Wood Zone Plus"
+
+## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/stt16amyfors3keicon.png"> STT16-Bit Amy Sprites for S3KE (Sonic 1 2013) - Retro Engine
+A add-on mod for the mod "Sonic 3 & Knuckles Experience" that replaces Amy's sprites from Sonic Triple Trouble 16-Bit
+
+## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/cdesquelifehudicon.png"> CD-esque Life HUD (RSDK Decomps and Origins) - Retro Engine
+A mod for the decompilations and Sonic Origins to make the life hud similar to the Sonic CD life HUD, inspired by Arqante's S1F/S2A/S3AIR Mod
+
+## <img height="64" src="https://raw.githubusercontent.com/BetaNCourses/BetaNCs-Mod-Database/refs/heads/main/repo-assets/missingicon.png"> Pizzakins Buddies (X-Mas Break eXtra Slot Skins) - Sonic 3 A.I.R.
+Seems like the Pizzakins Buddies are back, now with a jolly look!

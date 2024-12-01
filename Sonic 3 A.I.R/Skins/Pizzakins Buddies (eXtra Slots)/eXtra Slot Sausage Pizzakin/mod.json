@@ -1,0 +1,38 @@
+{
+	"Metadata":
+	{
+		"Name": "eXtra Slot Sausage Pizzakin",
+		"Author": "BetaNCourses",
+		"Description": "A seperate buddy of the Sausage Pizzakin, replaces Slot 9",
+		"ModVersion": "1.0",
+		"UniqueID": "eXtraSausage",
+		"GameVersion": "19.09.28.1"
+	},
+	"OtherMods":
+	{
+		"MINI-Buddies-BETA":
+		{
+			"DisplayName": "(eXtra Quill's) MINI Buddies",
+			"IsRequired": "1",
+			"Priority": "Lower"
+		},
+	},
+"Settings":
+{
+	"Settings":
+	[
+		{
+			"InternalName": "buddyFormX",
+			"DisplayName": "Buddy Form",
+			"Variable": "buddyFormX",
+			"Category": "eXtra Features",
+			"DefaultValue": "0x0",
+			"Options":
+			{
+				"0x0": "Normal",
+				"0x1": "SUPER", 
+				}
+		},
+	]
+}
+}

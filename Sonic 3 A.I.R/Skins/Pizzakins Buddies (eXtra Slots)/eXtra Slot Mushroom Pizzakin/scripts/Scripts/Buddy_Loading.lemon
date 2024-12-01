@@ -1,0 +1,8 @@
+//Replace SlotX to your own slot
+function void BuddyInitial()
+{
+    LoadedBuddies += 1
+    if (LoadedBuddies < 40)
+        SpawnBuddy.Slot6()
+    base.BuddyInitial()
+}

@@ -1,0 +1,19 @@
+{
+	"Metadata":
+	{
+		"Name": "2011X over Mephiles - MHET Example",
+		"Author": "BetaNCourses",
+		"Description": "A actual example mod of using the Mephiles' Hunt Expanded Tool",
+		"ModVersion": "1.0"
+	},
+	"OtherMods":
+	{
+		"Mephiles' Hunt":
+		{
+			"DisplayName": "Mephiles' Hunt",
+			"IsRequired": "1",
+			"Priority": "High"
+		}
+	}
+}
+
